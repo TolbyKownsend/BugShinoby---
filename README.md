@@ -1,18 +1,11 @@
-
-#include <iostream>
-#include <string>
-using namespace std;
-
-int main() {
-    string input;
-    double beatlejuice; 
-    cout << "say beetle juice 3x " << endl;
-    cin >> input;
-    if (input == "beetlejuice3x")
-    {
-          cout << "ITS SHOW TIME " << endl;
-    }
-    
-
-return 0;
-}
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+    <title>5XX Level Errors page</title>
+</head>
+<body>
+  <h1> 5XX Level Errors </h1>
+  <h2>::CLOUDFLARE_ERROR_500S_BOX::</h2>
+</body>
+</html>
