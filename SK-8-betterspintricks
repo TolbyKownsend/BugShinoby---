@@ -1,0 +1,25 @@
+#include <iostream>
+#include <iomanip>
+using namespace std; 
+int main( )
+{ 
+ 
+         double tricks, spin, x, y ;
+         cout <<  "how many flip tricks";
+         cin >> tricks; 
+      
+    for (x = tricks * 360 ; x > 540;){
+
+
+                 cout <<  "how many spin tricks";
+         cin >> tricks; 
+  y= tricks * 180 ;
+  
+        cout << x + y  ;
+        cout << "° spun by the BAKER board " << endl; 
+        if (x + y < 1440) cout << "badpp" << endl;
+        
+        else (cout << "good")  ;
+        }
+       
+}
