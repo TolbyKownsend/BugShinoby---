@@ -1,0 +1,17 @@
+#include <iostream>
+#include <iomanip>
+using namespace std; 
+int main( )
+figurs of Pokemon cards and multiplication//{ double x, pokemon;
+
+cout<<"number of packs to appraise" ;
+
+number of packs ripped// cin>>pokemon ;
+x= pokemon * 2.5;
+
+result space//times number of RARE//cout << x *2.5;
+cout << ".       " ;
+
+RARES times *10 of those packs //cout << x*25;
+
+}
