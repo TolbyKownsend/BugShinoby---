@@ -1,0 +1,21 @@
+#include <iostream>
+#include <iomanip>
+using namespace std; 
+int main( )
+{ double x, pokemon, battle, fa;
+cout<<"number of packs to appraise" ;
+ cin>>pokemon ;
+x= pokemon * 1.1;
+cout << x ; cout << "RARES in that many pack";
+cout << ".       " ;
+cout << x*10.1; cout << "RARES in that many packs times ten packs";
+ battle = pokemon*2*40; 
+ cout << ".       " ;
+ cout << battle; cout << "RARES in that many battleboxs";
+ if (x > 50);
+ cout << ".        ";
+ fa = pokemon * .04 ; 
+ cout << fa; cout << "cards FULL ART";
+ 
+}
+    
